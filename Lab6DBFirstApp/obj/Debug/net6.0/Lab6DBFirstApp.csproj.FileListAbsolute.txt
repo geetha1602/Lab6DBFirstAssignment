@@ -1,0 +1,14 @@
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\bin\Debug\net6.0\Lab6DBFirstApp.deps.json
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\bin\Debug\net6.0\Lab6DBFirstApp.runtimeconfig.json
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\bin\Debug\net6.0\Lab6DBFirstApp.dll
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\bin\Debug\net6.0\Lab6DBFirstApp.pdb
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\Lab6DBFirstApp.csproj.AssemblyReference.cache
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\Lab6DBFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\Lab6DBFirstApp.AssemblyInfoInputs.cache
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\Lab6DBFirstApp.AssemblyInfo.cs
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\Lab6DBFirstApp.csproj.CoreCompileInputs.cache
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\Lab6DBFirstApp.dll
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\refint\Lab6DBFirstApp.dll
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\Lab6DBFirstApp.pdb
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\Lab6DBFirstApp.genruntimeconfig.cache
+D:\LabAssignments\Lab6DBFirstApp\Lab6DBFirstApp\obj\Debug\net6.0\ref\Lab6DBFirstApp.dll
